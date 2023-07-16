@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DUJY2SB2kz9A7L/Vn+9DCKyB8PpSIJ2WZhO4y1gQnqqLLwzETXMcWw93e9C72ohMPCd0x6ADDu+yw7UbLiBLnA==",
+  "dgSpecHash": "UfmH/Lzg714yReqWJSSvTm4Xft0ix4vkgfpwbVRRw81my8zoAzRFuIGE72UuEYkV+A2olstPxoJlp7UISJ6LtQ==",
   "success": true,
-  "projectFilePath": "D:\\NeoVim\\csharp\\Big-O\\Big-O.csproj",
+  "projectFilePath": "D:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

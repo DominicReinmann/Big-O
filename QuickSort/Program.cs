@@ -19,7 +19,7 @@ public class Program
 
     static void Main(string[] args)
     {
-        int[] values = randArray.genArray(2500);
+        int[] values = randArray.genArray(25000);
         Stopwatch stopwatch = new Stopwatch();
         stopwatch.Start();
 

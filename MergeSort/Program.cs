@@ -19,16 +19,16 @@ public class Program
 
     static void Main(string[] args)
     {
-        int[] values = randArray.genArray(2500);
+        int[] values = randArray.genArray(25000);
         Stopwatch stopwatch = new Stopwatch();
         stopwatch.Start();
 
-        // code goes here
+        // code here
 
         stopwatch.Stop();
         TimeSpan ts = stopwatch.Elapsed;
         System.Console.WriteLine(
-            "execution time: {0:00}:{1:00}:{2:00}.{3}",
+            "execution time: {0:00}:{0:00}:{0:00}.{0}",
             ts.Hours,
             ts.Minutes,
             ts.Seconds,
