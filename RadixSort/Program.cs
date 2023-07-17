@@ -20,19 +20,19 @@ public class Program
     static void Main(string[] args)
     {
         int[] values = randArray.genArray(25000);
-        Stopwatch stopwatch = new Stopwatch();
-        stopwatch.Start();
+        DateTime startTime = DateTime.Now;
 
-        // code goes here
+        DateTime endTime = DateTime.Now;
+        TimeSpan elapsedTime = endTime - startTime;
 
-        stopwatch.Stop();
-        TimeSpan ts = stopwatch.Elapsed;
-        System.Console.WriteLine(
-            "execution time: {0:00}:{0:00}:{0:00}.{0}",
-            ts.Hours,
-            ts.Minutes,
-            ts.Seconds,
-            ts.Milliseconds
-        );
+        string filePath = "Insertion.txt";
+        using (StreamWriter writer = new StreamWriter(filePath))
+        {
+            writer.WriteLine("sortedArray");
+            writer.WriteLine(values.Count() + " entrys");
+            writer.WriteLine("Execution time: {0}", elapsedTime);
+
+            System.Console.WriteLine("Finished");
+        }
     }
 }

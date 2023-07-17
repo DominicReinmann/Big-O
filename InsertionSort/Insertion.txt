@@ -1,0 +1,3 @@
+sortedArray
+25000 entrys
+Execution time: 00:00:00.5624694

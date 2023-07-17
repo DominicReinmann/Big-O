@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-public class Program
+﻿public class Program
 {
     public static class randArray
     {
@@ -17,11 +15,8 @@ public class Program
         }
     }
 
-    static void Main(string[] args)
+    static void Bubble(int[] values)
     {
-        int[] values = randArray.genArray(25000);
-        Stopwatch stopwatch = new Stopwatch();
-        stopwatch.Start();
         for (int i = 0; i < values.Length; i++)
         {
             for (int j = 0; j < values.Length - i - 1; j++)
@@ -34,14 +29,26 @@ public class Program
                 }
             }
         }
-        stopwatch.Stop();
-        TimeSpan ts = stopwatch.Elapsed;
-        System.Console.WriteLine(
-            "execution time: {0:00}:{0:00}:{0:00}.{0}",
-            ts.Hours,
-            ts.Minutes,
-            ts.Seconds,
-            ts.Milliseconds
-        );
+    }
+
+    static void Main(string[] args)
+    {
+        int[] values = randArray.genArray(25000);
+        DateTime startTime = DateTime.Now;
+
+        Bubble(values);
+
+        DateTime endTime = DateTime.Now;
+        TimeSpan elapsedTime = endTime - startTime;
+
+        string filePath = "Bubble.txt";
+        using (StreamWriter writer = new StreamWriter(filePath))
+        {
+            writer.WriteLine("sortedArray");
+            writer.WriteLine(values.Length + " entrys");
+            writer.WriteLine("Execution time: {0}", elapsedTime);
+
+            System.Console.WriteLine("Finished");
+        }
     }
 }

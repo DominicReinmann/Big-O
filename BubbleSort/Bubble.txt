@@ -1,0 +1,2 @@
+sortedArray
+Execution time: 00:00:02.1741803
