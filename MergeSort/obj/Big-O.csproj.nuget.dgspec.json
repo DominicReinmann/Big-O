@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj": {}
+    "d:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj": {}
   },
   "projects": {
-    "D:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj": {
+    "d:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj",
+        "projectUniqueName": "d:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj",
         "projectName": "Big-O",
-        "projectPath": "D:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj",
+        "projectPath": "d:\\NeoVim\\csharp\\Big-O\\MergeSort\\Big-O.csproj",
         "packagesPath": "C:\\Users\\Dominic\\.nuget\\packages\\",
-        "outputPath": "D:\\NeoVim\\csharp\\Big-O\\MergeSort\\obj\\",
+        "outputPath": "d:\\NeoVim\\csharp\\Big-O\\MergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
