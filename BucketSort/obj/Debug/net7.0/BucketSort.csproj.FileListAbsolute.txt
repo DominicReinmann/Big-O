@@ -1,0 +1,15 @@
+D:\NeoVim\csharp\Big-O\BucketSort\bin\Debug\net7.0\BucketSort.exe
+D:\NeoVim\csharp\Big-O\BucketSort\bin\Debug\net7.0\BucketSort.deps.json
+D:\NeoVim\csharp\Big-O\BucketSort\bin\Debug\net7.0\BucketSort.runtimeconfig.json
+D:\NeoVim\csharp\Big-O\BucketSort\bin\Debug\net7.0\BucketSort.dll
+D:\NeoVim\csharp\Big-O\BucketSort\bin\Debug\net7.0\BucketSort.pdb
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.csproj.AssemblyReference.cache
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.AssemblyInfoInputs.cache
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.AssemblyInfo.cs
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.csproj.CoreCompileInputs.cache
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.dll
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\refint\BucketSort.dll
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.pdb
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\BucketSort.genruntimeconfig.cache
+D:\NeoVim\csharp\Big-O\BucketSort\obj\Debug\net7.0\ref\BucketSort.dll

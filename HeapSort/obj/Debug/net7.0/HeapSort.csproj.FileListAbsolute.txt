@@ -1,0 +1,15 @@
+D:\NeoVim\csharp\Big-O\HeapSort\bin\Debug\net7.0\HeapSort.exe
+D:\NeoVim\csharp\Big-O\HeapSort\bin\Debug\net7.0\HeapSort.deps.json
+D:\NeoVim\csharp\Big-O\HeapSort\bin\Debug\net7.0\HeapSort.runtimeconfig.json
+D:\NeoVim\csharp\Big-O\HeapSort\bin\Debug\net7.0\HeapSort.dll
+D:\NeoVim\csharp\Big-O\HeapSort\bin\Debug\net7.0\HeapSort.pdb
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.csproj.AssemblyReference.cache
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.AssemblyInfoInputs.cache
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.AssemblyInfo.cs
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.csproj.CoreCompileInputs.cache
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.dll
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\refint\HeapSort.dll
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.pdb
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\HeapSort.genruntimeconfig.cache
+D:\NeoVim\csharp\Big-O\HeapSort\obj\Debug\net7.0\ref\HeapSort.dll

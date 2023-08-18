@@ -1,0 +1,15 @@
+D:\NeoVim\csharp\Big-O\CountingSort\bin\Debug\net7.0\CountingSort.exe
+D:\NeoVim\csharp\Big-O\CountingSort\bin\Debug\net7.0\CountingSort.deps.json
+D:\NeoVim\csharp\Big-O\CountingSort\bin\Debug\net7.0\CountingSort.runtimeconfig.json
+D:\NeoVim\csharp\Big-O\CountingSort\bin\Debug\net7.0\CountingSort.dll
+D:\NeoVim\csharp\Big-O\CountingSort\bin\Debug\net7.0\CountingSort.pdb
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.csproj.AssemblyReference.cache
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.AssemblyInfoInputs.cache
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.AssemblyInfo.cs
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.csproj.CoreCompileInputs.cache
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.dll
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\refint\CountingSort.dll
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.pdb
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\CountingSort.genruntimeconfig.cache
+D:\NeoVim\csharp\Big-O\CountingSort\obj\Debug\net7.0\ref\CountingSort.dll
