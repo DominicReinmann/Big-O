@@ -17,6 +17,10 @@ Welcome to the Big-O Sorting Algorithms repository! This project provides implem
 
 The main goal of this repository is to help users understand and compare the time complexities and efficiencies of different sorting algorithms.
 
+## Usage
+
+Each sorting algorithm is implemented as a separate function within its respective file. You can explore each algorithm and see how it operates on different datasets. Feel free to clone this repository and experiment with the code.
+
 ## TODO 
 - [x] Bubblesort
 - [ ] Bucketsort
