@@ -1,6 +1,7 @@
 ﻿public class Program {
-  public static class randArray {
-    public static int[] genArray(int count) {
+
+  public static class RandArray {
+    public static int[] GenArray(int count) {
       Random random = new Random();
       int[] values = new int[count];
 
@@ -12,7 +13,7 @@
   }
 
   static void Main(string[] args) {
-    int[] values = randArray.genArray(25000000);
+    int[] values = RandArray.GenArray(25000000);
     DateTime startTime = DateTime.Now;
 
     DateTime endTime = DateTime.Now;

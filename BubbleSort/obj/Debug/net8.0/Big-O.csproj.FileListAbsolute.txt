@@ -1,0 +1,15 @@
+C:\Programming\csharp\Big-O\BubbleSort\bin\Debug\net8.0\Big-O.exe
+C:\Programming\csharp\Big-O\BubbleSort\bin\Debug\net8.0\Big-O.deps.json
+C:\Programming\csharp\Big-O\BubbleSort\bin\Debug\net8.0\Big-O.runtimeconfig.json
+C:\Programming\csharp\Big-O\BubbleSort\bin\Debug\net8.0\Big-O.dll
+C:\Programming\csharp\Big-O\BubbleSort\bin\Debug\net8.0\Big-O.pdb
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.AssemblyInfoInputs.cache
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.AssemblyInfo.cs
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.csproj.CoreCompileInputs.cache
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.sourcelink.json
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.dll
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\refint\Big-O.dll
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.pdb
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\Big-O.genruntimeconfig.cache
+C:\Programming\csharp\Big-O\BubbleSort\obj\Debug\net8.0\ref\Big-O.dll

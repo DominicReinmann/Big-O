@@ -1,2 +1,3 @@
 sortedArray
-Execution time: 00:00:02.1741803
+25000 entrys
+Execution time: 00:00:05.0299805

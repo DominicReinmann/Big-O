@@ -1,8 +1,8 @@
 ﻿public class Program
 {
-    public static class randArray
+    public static class RandArray
     {
-        public static int[] genArray(int count)
+        public static int[] GenArray(int count)
         {
             Random random = new Random();
             int[] values = new int[count];
@@ -15,14 +15,14 @@
         }
     }
 
-    public static double getDigit(int num, int place)
+    public static int GenDigits(int num, int place)
     {
-        return Math.Floor(Math.Abs(num) / Math.Pow(10, place)) % 10;
+        return (int)(Math.Floor(Math.Abs(num) / Math.Pow(10, place)) % 10);
     }
 
-    public static int getNumberOfDigits(int num)
+    public static int GetNumberOfDigits(int num)
     {
-        return (int)Math.Floor(Math.Log10(Math.Abs(10))) + 1;
+        return num == 0 ? 1 : (int)Math.Floor(Math.Log10(Math.Abs(num))) + 1;
     }
 
     public static int[] RadixSort(int[] values)
@@ -31,7 +31,7 @@
 
         for (int i = 0; i < values.Length; i++)
         {
-            maxDigit = Math.Max(maxDigit, getNumberOfDigits(values[i]));
+            maxDigit = Math.Max(maxDigit, GetNumberOfDigits(values[i]));
         }
 
         for (int i = 0; i < maxDigit; i++)
@@ -45,7 +45,7 @@
 
             for (int j = 0; j < values.Length; j++)
             {
-                var digits = (int)getDigit(values[j], i);
+                var digits = (int)GenDigits(values[j], i);
                 buckets[digits].Add(values[j]);
             }
 
@@ -65,7 +65,7 @@
 
     static void Main(string[] args)
     {
-        int[] values = randArray.genArray(25000000);
+        int[] values = RandArray.GenArray(250000);
         DateTime startTime = DateTime.Now;
 
         RadixSort(values);

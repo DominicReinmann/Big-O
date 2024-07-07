@@ -1,8 +1,8 @@
 ﻿public class Program
 {
-    public static class randArray
+    public static class RandArray
     {
-        public static int[] genArray(int count)
+        public static int[] GenArray(int count)
         {
             Random random = new Random();
             int[] values = new int[count];
@@ -69,10 +69,10 @@
 
     static void Main(string[] args)
     {
-        int[] values = randArray.genArray(25000);
+        int[] values = RandArray.GenArray(25000);
         DateTime startTime = DateTime.Now;
 
-        MergeSort(values);
+        values = MergeSort(values);
 
         DateTime endTime = DateTime.Now;
         TimeSpan elapsedTime = endTime - startTime;
