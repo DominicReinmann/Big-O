@@ -1,23 +1,23 @@
-Big-O Sorting Algorithms
+## Big-O Sorting Algorithms
 
 Welcome to the Big-O Sorting Algorithms repository! This project provides implementations of various sorting algorithms in C#, designed for educational purposes. The repository includes the following algorithms:
 
-    Bubble Sort
-    Bucket Sort
-    Counting Sort
-    Heap Sort
-    Insertion Sort
-    Merge Sort
-    Quick Sort
-    Radix Sort
-    Selection Sort
-    Shell Sort
+   - Bubble Sort
+   - Bucket Sort
+   - Counting Sort
+   - Heap Sort
+   - Insertion Sort
+   - Merge Sort
+   - Quick Sort
+   - Radix Sort
+   - Selection Sort
+   - Shell Sort
 
-Purpose
+## Purpose
 
 The main goal of this repository is to help users understand and compare the time complexities and efficiencies of different sorting algorithms.
 
-TODO 
+## TODO 
 - [x] Bubblesort
 - [ ] Bucketsort
 - [ ] Countingsort
